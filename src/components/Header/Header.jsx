@@ -4,6 +4,7 @@ const Header = () => {
     return (
         <div>
             <Link to='/'>Home</Link>
+            <br />
             <Link to='/login'>Login</Link>
         </div>
     );
